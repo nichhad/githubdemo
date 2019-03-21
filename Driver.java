@@ -6,6 +6,7 @@ public class Driver {
 		// first change since initial push to GitHub
 		// Fred Morrison made this change as a GitHub collaborator on this project.
 		// second change made by project owner 
+		// Fred Morrison second change
 	}
 
 }
